@@ -1,4 +1,4 @@
-# Marketing Campaign Performance Analysis
+# AI-Powered Marketing Campaign Intelligence System
 
 ## Overview
 
@@ -133,3 +133,18 @@ By combining structured analytics with AI-generated interpretation, it demonstra
 Free LLM endpoints may occasionally fail or be rate-limited.
 The system is designed to handle this gracefully using a fallback mechanism.
 
+
+## 🤝 Connect
+
+If you found this interesting or have feedback, feel free to follow and connect!
+
+**My Portfolio & Profiles: 
+- [Portfolio](https://nibeditans.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/ns-nibedita-sahu/)
+- [Medium](https://nsdsda.medium.com/)
+- [Kaggle](https://www.kaggle.com/nibeditasahu)
+- [Hackerrank](https://www.hackerrank.com/profile/nibeditans)!**
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
