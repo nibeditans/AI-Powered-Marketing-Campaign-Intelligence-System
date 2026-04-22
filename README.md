@@ -13,6 +13,9 @@ Instead of focusing on complex modeling, the goal is to showcase the **last mile
 * Generate business insights using an AI layer
 * Provide actionable recommendations for optimization
 
+**Check out the article I have written on this Project:**    
+Complete Project Walkthrough: [From Metrics to Decisions: Building an AI-Powered Marketing Intelligence System](https://nsdsda.medium.com/from-metrics-to-decisions-building-an-ai-powered-marketing-intelligence-system-45ed70643dbc)
+
 
 ## System Workflow
 
